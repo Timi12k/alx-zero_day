@@ -1,1 +1,1 @@
-This is the first README file for alx-zero_day
+I am going to become a rich and talented software engineer
